@@ -1,6 +1,7 @@
 ### pointcloud插件
 
 本插件按照SDK插件规范开发，提供深度图及点云功能。
+![image](https://github.com/indemind/plugin_poincloud/blob/master/exhibit.jpg)
 #### install
 - windows  
   将windows下的pointcloud文件夹完整的复制到SDK的plugin文件夹下，即可使用
